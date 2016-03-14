@@ -1,0 +1,33 @@
+h1{
+    color:red;
+    border-bottom-style: solid;
+    border-color:black;
+}
+body{
+    background-color:;
+    font-family:Comic Sans MS;
+    background-image:url("http://screenrant.com/wp-content/uploads/X-Men-Days-of-Future-Past-Full-Cast-Promo-Photo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+a {
+    color: gold;
+}
+a:link {
+    color:gold;
+}
+
+p{
+    color: gold;
+}
+
+li{
+    list-style:none;
+}
+
+footer {
+    color: gold;
+}
